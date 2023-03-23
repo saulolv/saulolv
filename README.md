@@ -3,9 +3,11 @@
 
 
 
-My name is Saulo Roberto, undergraduate student of Computer Engineering at Federal University of Alagoas - UFAL. I'm a software developer. 
+My name is Saulo Roberto, undergraduate student of Computer Engineering at Federal University of Alagoas - UFAL. I'm a software developer - backend. 
 
 - 📖 Constant improvement of my skills in Java and Python.
+
+## My Github's statitics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulolv&theme=tokyonight&layout=compact)
 
