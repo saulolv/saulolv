@@ -7,7 +7,7 @@ My name is Saulo Roberto, undergraduate student of Computer Engineering at Feder
 
 - 📖 Constant improvement of my skills in Java and Python/Django on Backend and AngularJS on Frontend.
 - Sometimes playing with development mobile using Flutter.
-- Studying Spring and Angular presently.
+- Currently studying Spring, Angular and Docker.
 
 ## My Github's statitics
 
