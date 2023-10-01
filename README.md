@@ -3,7 +3,7 @@
 
 
 
-My name is Saulo Roberto, undergraduate student of Computer Engineering at Federal University of Alagoas - UFAL. I'm a software developer - Fullstack. 
+My name is Saulo Roberto, undergraduate student of Computer Engineering at Federal University of Alagoas - UFAL. I'm a software developer. 
 
 - 📖 Constant improvement of my skills in Java/Spring and Python/Django on Backend and AngularJS on Frontend.
 - Sometimes playing with development mobile using Flutter.
