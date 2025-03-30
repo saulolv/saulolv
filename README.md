@@ -1,14 +1,20 @@
-### Hello 
+# 👋 Hi, I'm Saulo Roberto!  
 
+I'm an **undergraduate Computer Engineering student** at the **Federal University of Alagoas (UFAL)** and a **software developer** passionate about building scalable and efficient systems.  
 
+## 🚀 About Me  
+- 💻 Focused on **Backend development** with **Java/Spring** and **C#/.NET**, and **Frontend development** with **Angular**.  
+- 📚 Currently learning **Spring, Angular, and Docker** to enhance my development workflow.  
+- 🏗️ Enthusiastic about **design systems** and **infrastructure for large-scale systems**.  
+- 🔬 Researcher in **Artificial Intelligence, Embedded Systems, and EdgeML**.  
 
+## 🛠️ Tech Stack  
+- **Backend:** Java (Spring Boot), C# (.NET)  
+- **Frontend:** Angular  
+- **Tools & DevOps:** Docker  
 
-My name is Saulo Roberto, undergraduate student of Computer Engineering at Federal University of Alagoas - UFAL. I'm a software developer. 
+📫 Feel free to connect with me!  
 
-- Actually studying Firmware for Embebbed Systems, using C
-- Constant improvement of my skills in Java/Spring and C#/.NET on Backend and Angular on Frontend.
-- Sometimes playing with development mobile using Flutter.
-- Currently studying Spring, Angular and Docker.
 
 ## My Github's statitics
 
