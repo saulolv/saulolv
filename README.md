@@ -14,8 +14,6 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
 - **Tools & DevOps:** Docker, Kubernetes, Kafka  
 - **Architecture:** Microservices  
 
-📫 Feel free to connect with me!  
-
 
 📫 Feel free to connect with me!  
 
