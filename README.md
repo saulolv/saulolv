@@ -4,14 +4,18 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
 
 ## 🚀 About Me  
 - 💻 Focused on **Backend development** with **Java/Spring** and **C#/.NET**, and **Frontend development** with **Angular**.  
-- 📚 Currently learning **Spring, Angular, and Docker** to enhance my development workflow.  
+- 📚 Currently learning **Spring, Docker, Microservices, Kafka, and Kubernetes**.  
 - 🏗️ Enthusiastic about **design systems** and **infrastructure for large-scale systems**.  
 - 🔬 Researcher in **Artificial Intelligence, Embedded Systems, and EdgeML**.  
 
 ## 🛠️ Tech Stack  
 - **Backend:** Java (Spring Boot), C# (.NET)  
 - **Frontend:** Angular  
-- **Tools & DevOps:** Docker  
+- **Tools & DevOps:** Docker, Kubernetes, Kafka  
+- **Architecture:** Microservices  
+
+📫 Feel free to connect with me!  
+
 
 📫 Feel free to connect with me!  
 
