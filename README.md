@@ -11,8 +11,7 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
 ## 🛠️ Tech Stack  
 - **Backend:** Java (Spring Boot), C# (.NET)  
 - **Frontend:** Angular  
-- **Tools & DevOps:** Docker, Kubernetes, Kafka  
-- **Architecture:** Microservices  
+- **Tools & DevOps:** Docker, Kubernetes, Kafka
 
 
 📫 Feel free to connect with me!  
