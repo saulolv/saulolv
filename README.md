@@ -35,7 +35,7 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
 </p>
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/saulolv](https://www.linkedin.com/in/saulolv)
+- LinkedIn: [linkedin.com/in/saulolv](https://www.linkedin.com/in/saulo77)
 
 ## My Github's statitics
 
