@@ -34,8 +34,8 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
 </p>
 
-📫 Feel free to connect with me!  
-
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/saulolv](https://www.linkedin.com/in/saulolv)
 
 ## My Github's statitics
 
