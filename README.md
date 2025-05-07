@@ -40,7 +40,3 @@ I'm an **undergraduate Computer Engineering student** at the **Federal Universit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-## My Github's statitics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulolv&theme=tokyonight&layout=compact)
